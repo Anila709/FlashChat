@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475621102005",
+    "project_id": "flashchat-e768c",
+    "storage_bucket": "flashchat-e768c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475621102005:android:ba047a7fb9ab09b35c49fc",
+        "android_client_info": {
+          "package_name": "com.anila.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTI_iXDPfOKTCvNVf2tB9jhTG46fcnZXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
